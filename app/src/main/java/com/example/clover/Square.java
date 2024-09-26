@@ -21,5 +21,4 @@ public class Square extends Shape {
     this.sideLength = sideLength;
     }
 
-
 }
