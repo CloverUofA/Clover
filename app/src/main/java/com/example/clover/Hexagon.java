@@ -5,12 +5,12 @@ public class Hexagon extends Shape {
 
     public Hexagon() {
         super();
-        side = 0;
+        this.side = 0;
     }
 
     public Hexagon(int x, int y, int s) {
         super(x, y);
-        side = s;
+        this.side = s;
     }
 
     public int getSide() {
