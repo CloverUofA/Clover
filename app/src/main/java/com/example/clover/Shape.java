@@ -3,7 +3,7 @@ package com.example.clover;
 public abstract class Shape {
     protected int x;
     protected int y;
-    String color = "purple";
+    String color = "Violet";
 
     public Shape() {
         this.x = 0;
