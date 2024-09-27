@@ -1,11 +1,8 @@
 package com.example.clover;
 
-import android.graphics.Color;
-
 public abstract class Shape {
     protected int x;
     protected int y;
-    String color = "pink";
 
     public Shape() {
         this.x = 0;
